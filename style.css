@@ -73,9 +73,24 @@ button{
   font-family: 'Anton', sans-serif;
 }
 footer{
-  height: 100px;
+  text-align: center;
+  padding-top: 20px;
+  color: #7E7F8D;
   background: #4E4E4E;
 }
 #ex{
   font-size: 14px;
+}
+a{
+  font-style: none;
+}
+#foot{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+i{
+  font-size: 30px;
 }
