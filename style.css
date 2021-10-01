@@ -98,8 +98,6 @@ i{
 .alert{
   font-size: 13px;
   padding: 10px;
-  justify-content: space-evenly;
-  align-items: baseline;
   position: static;
 }
 .in{
